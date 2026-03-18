@@ -1,18 +1,17 @@
 # AUTENSITAS TELUR ORGANIK _CALIBRATED-FREE LASER-INDUCED BREAKDOWN SPECTROSCOPY_ DENGAN _DEEP NEURAL NETWORKS_
 
-Proyek penilitian oleh Departemen Fisika KBM Gelombang Optik dan Spektroskopi
-Fakultas MIPA Universitas Syiah Kuala
+Research project by the Department of Physics, Wave Optics and Spectroscopy Group
+Faculty of Mathematics and Natural Sciences, Universitas Syiah Kuala
 
-**Birrul Walidain**
+**Birrul Walidain**  
 **2008102010010**
 
 ## _on going_
 
-Fitting data dengan profil spektral (Gaussian, Lorentzian, dan Voight)
+Fitting spectral data with spectral profiles (Gaussian, Lorentzian, and Voigt)
 
-## Berkas
+## Files
 
-Seluruh penilitian ini ditulis menggunakan python dengan bmenggunakan scipy dan numpy
+All research is written in Python using SciPy and NumPy
 
-Narahubung
-085156184297
+For questions, please open a GitHub Issue.
